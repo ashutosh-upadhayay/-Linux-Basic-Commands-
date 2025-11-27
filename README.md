@@ -1,6 +1,6 @@
-# 🐧 Linux Basic Commands for Beginners (Cyber Security Foundation)
+# 🐧 Linux Basic Command
 
-Learning Linux commands is the first step in mastering **Cyber Security**.  
+Learning Linux commands.  
 These commands work on **Kali Linux, Ubuntu, Debian, Fedora, and other Linux distros**.  
 Use this guide as a quick reference while practicing. 🚀
 
